@@ -19,7 +19,7 @@ LLM系の検証したり、LLMを動かしたりするリポジトリです！
 ```text
 .
 ├── tests/    # 検証したるするフォルダ
-└── assets/     # アセットを入れるフォルダ
+└── assets/   # アセットを入れるフォルダ
 🚀 Quick Start
 git clone https://github.com/Pikotyan484/my-llm-playground.git
 cd my-llm-playground
