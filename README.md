@@ -5,8 +5,6 @@
 **Experimental sandbox for Large Language Models.**  
 *Prototyping, benchmarking, and exploring the limits of AI.*
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
-
 </div>
 
 ---
