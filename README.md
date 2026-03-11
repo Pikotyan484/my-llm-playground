@@ -12,7 +12,7 @@
 ### 🎯 Objective
 LLM系の検証したり、LLMを動かしたりするリポジトリです！
 
-### 🛠 Focus Areas
+### 🛠 Focus Areas (maybe)
 - **Prompt Engineering:** CoT, Few-shot optimization.
 - **RAG Pipelines:** Retrieval accuracy & Chunking strategies.
 - **Agentic Workflows:** Autonomous task execution tests.
