@@ -24,7 +24,7 @@ LLM系の検証したり、LLMを動かしたりするリポジトリです！
 ├── tests/    # 検証したるするフォルダ
 └── assets/     # アセットを入れるフォルダ
 🚀 Quick Start
-git clone https://github.com/Pikotyan484/myy-llm-playground.git
+git clone https://github.com/Pikotyan484/my-llm-playground.git
 cd llm-playground
 pip install -r requirements.txt
 ```
