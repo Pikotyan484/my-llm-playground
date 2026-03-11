@@ -13,11 +13,8 @@
 LLM系の検証したり、LLMを動かしたりするリポジトリです！
 
 ### 🛠 Focus Areas (maybe)
-- **Prompt Engineering:** CoT, Few-shot optimization.
-- **RAG Pipelines:** Retrieval accuracy & Chunking strategies.
 - **Agentic Workflows:** Autonomous task execution tests.
-- **Benchmarking:** Comparing GPT-4o, Claude 3.5, and Open-source models.
-
+- **Coming Soon!**
 ### 📂 Structure
 ```text
 .
