@@ -27,8 +27,5 @@ LLM系の検証したり、LLMを動かしたりするリポジトリです！
 git clone https://github.com/Pikotyan484/myy-llm-playground.git
 cd llm-playground
 pip install -r requirements.txt
-<div align="center">
-<sub>Maintained by <b>[Your Name]</b></sub>
-</div>
 ```
 
