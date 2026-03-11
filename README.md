@@ -6,7 +6,6 @@
 *Prototyping, benchmarking, and exploring the limits of AI.*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 </div>
 
